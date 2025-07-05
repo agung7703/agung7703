@@ -6,8 +6,6 @@
   <img height="200" src="tenor.gif"  />
 </div>
 
-###
-
 <h2 align="center">
 <br><br><h2 align="center">About Me</h2></h2>
 
