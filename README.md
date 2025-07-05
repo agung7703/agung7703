@@ -1,4 +1,4 @@
-<h2 align="center"># Hey, I'm Agung Maulana Saputra! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hey, I'm <strong>Agung Maulana Saputra</strong>! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 ###
 
