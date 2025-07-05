@@ -11,8 +11,6 @@
 <h2 align="center">
 <br><br><h2 align="center">About Me</h2></h2>
 
-###
-
 <p align="left">
 🤖 I love learning about and making Front-End Web or Mobile Systems and design .<br>💻 I am constantly seeking out new technologies and learning about them.<br>🤝 I am open to collaborating with others on various projects, particularly those related to Front-End or areas that I have yet to explore.<br>🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.<br>
 </p>
@@ -20,8 +18,6 @@
 ###
 
 <h2 align="center">Find Me</h2>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -32,8 +28,6 @@
 ###
 
 <h2 align="center">Tech I Use 💻</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
@@ -58,8 +52,6 @@
 ###
 
 <h2 align="center">My Conribute 🥳</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agung7703&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
